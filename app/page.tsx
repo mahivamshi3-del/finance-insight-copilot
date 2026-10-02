@@ -203,7 +203,7 @@ async function analyzeFinancials() {
             <div className="mt-8 bg-slate-900 p-6 rounded-2xl border border-slate-800">
 
               <h2 className="text-2xl font-semibold mb-3">
-                Claude AI Management Insight
+                Management Financial Insight
               </h2>
 
               <p className="text-slate-300 whitespace-pre-line">
